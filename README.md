@@ -127,7 +127,7 @@ copied freely.
 
 **Bucle Engine** es el backend multi-tenant (NestJS y PostgreSQL) sobre el que corren los productos
 de su línea: **mktp** (un marketplace de muchos vendedores), **single** (la tienda de un solo
-vendedor) y **fomo-control** (una consola donde se lanzan proyectos y se siguen por tickets). Este
+vendedor) y **control** (una consola donde se lanzan proyectos y se siguen por tickets). Este
 repositorio es una vitrina: explica qué es el Engine y cómo está hecho, sin su código fuente y sin
 datos de clientes.
 
